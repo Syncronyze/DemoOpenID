@@ -17,7 +17,7 @@ public class LoginActivity extends Activity {
 
     // this will be the return_to portion of the constructed OpenID URL.
     // it doesn't have to exist, we're just using it to catch the returned login page.
-    private final String MISC_PARAM = "CSGOTrade_Project_App";
+    private final String MISC_PARAM = "RandomUrl.com";
     private WebView wv;
     private ProgressBar pb;
 
